@@ -1,0 +1,10 @@
+:root{
+    --lightGrayishCyans: hsl(180, 31%, 95%);
+    --lightGrayishCyan: hsl(180, 52%, 96%);
+    --darkGrayishCyan: hsl(180, 8%, 52%);
+    --veryDarkGrayishCyan: hsl(180, 14%, 20%);
+    --green: (#00b894);
+}
+.background{
+    background-color: var(--lightGrayishCyan);
+}
